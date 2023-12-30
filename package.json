@@ -1,0 +1,15 @@
+{
+  "name": "Personal Project",
+  "version": "1.0.0",
+  "description": "Project created with Javascript",
+  "main": "index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"Javascript",
+    "build":"Javascript building",
+    "start": "Javascript-start"
+  },
+  "keywords": [],
+  "author": "Lucas Martinez Scordamaglia",
+  "license": "MIT"
+}
